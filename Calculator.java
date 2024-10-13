@@ -23,7 +23,7 @@ public class Calculator implements ActionListener{
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		frame.setSize(420, 550);
 		frame.setLayout(null);
-		
+
 		textfield = new JTextField();
 		textfield.setBounds(50, 25, 300, 50);
 		textfield.setFont(myFont);
